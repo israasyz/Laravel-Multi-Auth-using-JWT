@@ -1,1 +1,2 @@
-# Laravel-Multi-Auth-using-JWT
+# Laravel Multiple Authentication using Guards and JWT
+
